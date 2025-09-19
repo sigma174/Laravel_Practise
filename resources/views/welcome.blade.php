@@ -28,6 +28,8 @@
 
         <h2>Main</h2>
         <a href="{{route('about')}}">About</a>
-        <a href="/contacts">contacts</a>
+        <a href="/contacts">Contacts</a>
+        <a href="/info">Information</a>
+        <a href="/job">Job</a>
     </body>
 </html>

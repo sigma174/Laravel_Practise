@@ -16,4 +16,12 @@ class TestController extends Controller
     public function contacts() {
         return view('contacts');
     }
+
+    public function info() {
+        return view('info');
+    }
+
+    public function job() {
+        return view('job');
+    }
 }
