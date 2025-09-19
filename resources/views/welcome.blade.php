@@ -25,5 +25,9 @@
             </div>
             @endfor
         </div>
+
+        <h2>Main</h2>
+        <a href="{{route('about')}}">About</a>
+        <a href="/contacts">contacts</a>
     </body>
 </html>
